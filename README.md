@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# next.js
-=======
 # Next.js
->>>>>>> 4271b30394e8cd9e0fcd1347e8729e31fb02aea9
+
+<hr>
+2025.05.26 Next.js 공식 문서 가이드 - AppRouter
